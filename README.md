@@ -11,7 +11,7 @@
 
 <br><br>
 ## 読書時間稼ぎ
-「delay.js」の中身を全てコンソールに張り付けて「Enter」キーを押してください。タブが大量に生成されます。一定時間経過後、タブが自動的に閉じるので何も触らず待機してください。
+Reading画面で、「delay.js」の中身を全てコンソールに張り付けて「Enter」キーを押してください。タブが大量に生成されます。一定時間経過後、タブが自動的に閉じるので何も触らず待機してください。
 
 
 ![読書時間稼ぎ](https://github.com/daianjibetu/Images/blob/master/AutoXreading/delay.png)
@@ -26,14 +26,14 @@ var time = 60; //待機時間[sec]
 
 <br><br>
 ## 最後まで読み飛ばし
-「skip.js」の中身を全てコンソールに張り付けて「Enter」キーを押してください。ページを自動的に送ります。最終ページになるまで待機してください。
+Reading画面で、「skip.js」の中身を全てコンソールに張り付けて「Enter」キーを押してください。ページを自動的に送ります。最終ページになるまで待機してください。
 
 
 ![最後まで読み飛ばし](https://github.com/daianjibetu/Images/blob/master/AutoXreading/skip.png)
 
 <br><br>
 ## 自動解答
-「solve.js」の中身を全てコンソールに張り付けて「Enter」キーを押してください。タブがいくらか生成されます。一定時間経過後、タブが自動的に閉じるので何も触らず待機してください。
+Quiz画面で、「solve.js」の中身を全てコンソールに張り付けて「Enter」キーを押してください。タブがいくらか生成されます。一定時間経過後、タブが自動的に閉じるので何も触らず待機してください。
 
 
 ![自動解答](https://github.com/daianjibetu/Images/blob/master/AutoXreading/solve.png)
