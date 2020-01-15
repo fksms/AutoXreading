@@ -4,7 +4,8 @@
 
 ## 準備
 通信環境が良好な場所で以下を実行してください。<br>
-まず「F12」キーを押して開発者ツールを開きましょう。
+まず「F12」キーを押して開発者ツールを開きましょう。<br>
+また、xreading.comからのポップアップを許可しておきましょう。
 
 
 ![準備](https://github.com/daianjibetu/Images/blob/master/AutoXreading/preparation.png)
