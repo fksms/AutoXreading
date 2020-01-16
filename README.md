@@ -1,5 +1,7 @@
 # Xreading自動化ツール（JavaScript利用）
-通信環境が良好な場所で以下を実行してください。<br><br><br>
+通信環境が良好な場所で以下を実行してください。<br>
+Chrome拡張版は[こちら](https://github.com/daianjibetu/AutoXreadingChromeExtension)
+<br><br><br>
 
 
 ## 準備
