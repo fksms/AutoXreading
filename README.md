@@ -30,7 +30,7 @@ Reading画面で、「skip.js」の中身を全てコンソールに張り付け
 
 
 ## 自動解答
-Quiz画面で、「solve.js」の中身を全てコンソールに張り付けて「Enter」キーを押してください。タブがいくらか生成されます。一定時間経過後、タブが自動的に閉じるので何も触らず待機してください。<br><br>
+Quiz画面で、「solve.js」の中身を全てコンソールに張り付けて「Enter」キーを押してください。設定数のタブが生成されます。<br><br>
 ![自動解答](https://github.com/daianjibetu/Images/blob/master/AutoXreading/solve.png)
 <br><br><br>
 自動解答終了後、タブが自動的に閉じ、以下のようなアラートが出るので「このページを離れる」を押してください。<br><br>
