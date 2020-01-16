@@ -59,5 +59,5 @@ async function solve(tabs) {
     location.href = 'https://xreading.com/books/book_index'
 }
 
-//var tabs = 10; //開くタブの数
+var tabs = 10; //開くタブの数
 solve(tabs);
